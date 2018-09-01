@@ -1,0 +1,17 @@
+{
+  "name": "friendsite",
+  "version": "1.0.0",
+  "description": "A CMS dedicated to the TV series friends using fastify web framework and polymer components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FRIENDS"
+  ],
+  "author": "Joshua Cruzada",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^1.11.1"
+  }
+}
