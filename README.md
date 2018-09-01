@@ -5,7 +5,7 @@ this site would be attempted to be developed using the following stack:
 
 - [fastify](https://www.fastify.io/)
 
-- [polymer] (https://www.polymer-project.org/)
+- [polymer](https://www.polymer-project.org/)
 
 - and a database tech I am still finding
 
