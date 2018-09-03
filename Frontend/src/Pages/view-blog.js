@@ -28,10 +28,7 @@ class ViewBlog extends PolymerElement {
   }
   _toArray(jsonobj){
     /*
-      cant allow iron ajax to http://127.0.0.1:3000/api/getBlogs yet 
-      until they are hosted in the same server
-
-
+      
       below returns an array of objects with the desired properties for our blog cards 
     */
     return Object.keys(jsonobj).map(function(key){
