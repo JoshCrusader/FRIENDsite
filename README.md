@@ -16,18 +16,18 @@ this is my first time attempting to develop a [fully stacked app](https://www.qu
 My progress can be tracked [here](https://docs.google.com/document/d/1TKRs93SieXNhXzQDoI-rlfpaZQc9OiihZJ3kkI8Apng/edit?usp=sharing)
 
 to start:
-
 ```bash
 # install dependencies
 npm install
 # begin backend server
 node server
 ```
+backend server should start at port 3000
 
 Open another terminal
-
 ```bash
 # Begin frontend server
 cd Frontend
 polymer serve
 ```
+polymer server should start at port 8081
