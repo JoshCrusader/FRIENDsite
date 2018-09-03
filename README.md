@@ -7,7 +7,7 @@ this site would be attempted to be developed using the following stack:
 
 - [polymer](https://www.polymer-project.org/)
 
-- and a database tech I am still finding
+- [firebase](https://howtofirebase.com/save-and-query-firebase-data-ed73fb8c6e3a)
 
 This is a fully experimental project in which I will do my best to research and document all my progress and methods
 
