@@ -9,9 +9,9 @@
  */
 
 import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
-import './shared-styles.js';
+import '../shared-styles.js';
 
-class MyView2 extends PolymerElement {
+class CreateBlog extends PolymerElement {
   static get template() {
     return html`
       <style include="shared-styles">
@@ -32,4 +32,4 @@ class MyView2 extends PolymerElement {
   }
 }
 
-window.customElements.define('my-view2', MyView2);
+window.customElements.define('create-blog', CreateBlog);
